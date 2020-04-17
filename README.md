@@ -1,8 +1,5 @@
-# crank-boilerplate
-Boilerplate for CrankJS
+Install dependecies with `yarn install`.
 
-## Installation
-Clone repo and run `yarn` to install dependencies
+Run with `parcel watch index.html`.
 
-## Starting the server
-`parcel index.html`
+View on your machine at `localhost:1234`
