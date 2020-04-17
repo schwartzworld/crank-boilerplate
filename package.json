@@ -1,0 +1,15 @@
+{
+  "name": "crank-boilerplate",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:schwartzworld/crank-boilerplate.git",
+  "author": "Ian Schwartz <ian@schwartz.world>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-react": "^7.9.4"
+  },
+  "dependencies": {
+    "@bikeshaving/crank": "^0.1.0"
+  }
+}
